@@ -1,3 +1,4 @@
+#include <vector>
 #include <stack>
 
 int solution(string& S) {

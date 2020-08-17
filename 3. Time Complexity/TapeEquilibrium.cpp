@@ -1,3 +1,5 @@
+#include <vector>
+
 int solution(vector<int>& A) {
 	int sum = 0;
 	int temp_sum = 0;

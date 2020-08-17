@@ -1,3 +1,5 @@
+#include <vector>
+
 int solution(vector<int>& A) {
 	double cnt = 0;
 	int sum = 0;

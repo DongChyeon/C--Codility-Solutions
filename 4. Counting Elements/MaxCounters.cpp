@@ -1,3 +1,5 @@
+#include <vector>
+
 vector<int> solution(int N, vector<int>& A) {
 	vector<int> B;
 	int max = 0;

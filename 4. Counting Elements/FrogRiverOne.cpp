@@ -1,3 +1,4 @@
+#include <vector>
 #include <set>
 
 int solution(int X, vector<int>& A) {

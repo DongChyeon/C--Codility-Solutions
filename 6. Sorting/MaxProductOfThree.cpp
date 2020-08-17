@@ -1,3 +1,4 @@
+#include <vector>
 #include <algorithm>
 
 int solution(vector<int>& A) {

@@ -1,3 +1,5 @@
+#include <vector>
+
 vector<int> solution(string& S, vector<int>& P, vector<int>& Q) {
 	vector<int> A; A.assign(S.size(), 0);
 	vector<int> C; C.assign(S.size(), 0);

@@ -1,3 +1,5 @@
+#include <vector>
+
 int solution(vector<int>& A) {
 	int num = A[0];
 	for (int i = 1; i < A.size(); i++) {

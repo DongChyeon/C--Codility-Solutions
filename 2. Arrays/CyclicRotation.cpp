@@ -1,3 +1,5 @@
+#include <vector>
+
 vector<int> solution(vector<int> &A, int K) {
     int temp, temp2;
     

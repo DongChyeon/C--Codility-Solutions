@@ -1,3 +1,5 @@
+#include <vector>
+
 int solution(vector<int>& A) {
 	float min = 10000;
 	int minIndex = 0;
